@@ -67,10 +67,8 @@
         }
 
         .profile-img {
-            float: left;
             width: 156px;
             height: 156px;
-            margin-right: 20px;
             border-radius: 50%;
             object-fit: cover;
         }
@@ -84,6 +82,30 @@
         .content-section {
             overflow: hidden;
         }
+
+        .profile {
+            float: left;
+            width: 200px;
+            margin-right: 20px;
+        }
+
+        .profile-icons img {
+            margin-right: 10px;
+            vertical-align: middle;
+            border: none;
+        }
+
+        .profile-icons {
+            margin-top: 10px;
+        }
+
+        .profile-icons a {
+            text-decoration: none;
+        }
+
+        .main-content {
+            overflow: hidden;
+        }
     </style>
 </head>
 <body>
@@ -95,64 +117,74 @@
 
 <div class="container">
     <div class="content clearfix">
-        <img alt="Profile Picture" class="profile-img" src="profile.png">
-        <div class="content-section">
-            <p>
-                <a href="https://www.linkedin.com/in/zefang-liu" target="_blank">LinkedIn</a>
-                <a href="https://github.com/zefang-liu" target="_blank">GitHub</a>
-                <a href="https://scholar.google.com/citations?user=1h0gUKkAAAAJ&hl=en" target="_blank">Google
-                    Scholar</a>
-            </p>
-            <h2>About Me</h2>
-            <p>
-                Hi, I am a data scientist at JPMorgan Chase with expertise in machine learning and natural language
-                processing. I hold a PhD in Nuclear Engineering from the Georgia Institute of Technology. My work
-                focuses on applying machine learning techniques to various domains including cybersecurity and plasma
-                physics.
-            </p>
+        <div class="profile">
+            <img alt="Profile Picture" class="profile-img" src="profile.png">
+            <div class="profile-icons">
+                <a href="https://www.linkedin.com/in/zefang-liu" target="_blank">
+                    <img alt="LinkedIn" height="36" src="linkedin.png" width="42">
+                </a>
+                <a href="https://github.com/zefang-liu" target="_blank">
+                    <img alt="GitHub" height="36" src="github.png" width="36">
+                </a>
+                <a href="https://scholar.google.com/citations?user=1h0gUKkAAAAJ&hl=en" target="_blank">
+                    <img alt="Google Scholar" height="36" src="google_scholar.png" width="36">
+                </a>
+            </div>
+        </div>
+        <div class="main-content">
+            <div class="content-section">
+                <h2>About Me</h2>
+                <p>
+                    Hi, I am a data scientist at JPMorgan Chase with expertise in machine learning and natural language
+                    processing. I hold a PhD in Nuclear Engineering from the Georgia Institute of Technology. My work
+                    focuses on applying machine learning techniques to various domains including cybersecurity and
+                    plasma physics.
+                </p>
 
-            <h2>Work Experience</h2>
-            <p><strong>Applied AI ML Associate Sr</strong><br>
-                JPMorgan Chase, Palo Alto, CA, 2022 - Present</p>
+                <h2>Work Experience</h2>
+                <p><strong>Applied AI ML Associate Sr</strong><br>
+                    JPMorgan Chase, Palo Alto, CA, 2022 - Present</p>
 
-            <h2>Education</h2>
-            <p><strong>Doctor of Philosophy (PhD), Nuclear Engineering</strong><br>
-                Georgia Institute of Technology, 2018 - 2022</p>
-            <p><strong>Master of Science (MS), Computational Science and Engineering</strong><br>
-                Georgia Institute of Technology, 2018 - 2021</p>
-            <p><strong>Master of Science (MS), Aerospace Engineering</strong><br>
-                Georgia Institute of Technology, 2016 - 2018</p>
-            <p><strong>Bachelor of Engineering (BE), Energy and Power Engineering</strong><br>
-                Shandong University, 2012 - 2016</p>
+                <h2>Education</h2>
+                <p><strong>Doctor of Philosophy (PhD), Nuclear Engineering</strong><br>
+                    Georgia Institute of Technology, 2018 - 2022</p>
+                <p><strong>Master of Science (MS), Computational Science and Engineering</strong><br>
+                    Georgia Institute of Technology, 2018 - 2021</p>
+                <p><strong>Master of Science (MS), Aerospace Engineering</strong><br>
+                    Georgia Institute of Technology, 2016 - 2018</p>
+                <p><strong>Bachelor of Engineering (BE), Energy and Power Engineering</strong><br>
+                    Shandong University, 2012 - 2016</p>
 
-            <h2>Research Publications</h2>
-            <p>
-                <strong>
-                    Application of Neural Ordinary Differential Equations for Tokamak Plasma Dynamics Analysis
-                    [<a href="https://arxiv.org/abs/2403.01635" target="_blank">arXiv</a>]</strong><br>
-                <b>Z Liu</b>, WM Stacey, ICLR 2024 Workshop on AI4DifferentialEquations in Science, 2024
-            </p>
-            <p>
-                <strong>
-                    CyberBench: A Multi-Task Benchmark for Evaluating Large Language Models in Cybersecurity
-                    [<a href="https://www.researchgate.net/publication/378267627_CyberBench_A_Multi-Task_Benchmark_for_Evaluating_Large_Language_Models_in_Cybersecurity"
-                        target="_blank">ResearchGate</a>]</strong><br>
-                <b>Z Liu</b>, J Shi, JF Buford, AAAI 2024 Workshop on Artificial Intelligence for Cyber Security, 2024
-            </p>
-            <p>
-                <strong>
-                    SecQA: A Concise Question-Answering Dataset for Evaluating Large Language Models in Computer
-                    Security
-                    [<a href="https://arxiv.org/abs/2312.15838" target="_blank">arXiv</a>]</strong><br>
-                <b>Z Liu</b>, arXiv preprint arXiv:2312.15838, 2023
-            </p>
-            <p>
-                <strong>
-                    Anomaly Detection of Command Shell Sessions based on DistilBERT: Unsupervised and Supervised
-                    Approaches
-                    [<a href="https://arxiv.org/abs/2310.13247" target="_blank">arXiv</a>]</strong><br>
-                <b>Z Liu</b>, JF Buford, Conference on Applied Machine Learning in Information Security 2023, 2023
-            </p>
+                <h2>Research Publications</h2>
+                <p>
+                    <strong>
+                        Application of Neural Ordinary Differential Equations for Tokamak Plasma Dynamics Analysis
+                        [<a href="https://arxiv.org/abs/2403.01635" target="_blank">arXiv</a>]</strong><br>
+                    <b>Z Liu</b>, WM Stacey, ICLR 2024 Workshop on AI4DifferentialEquations in Science, 2024
+                </p>
+                <p>
+                    <strong>
+                        CyberBench: A Multi-Task Benchmark for Evaluating Large Language Models in Cybersecurity
+                        [<a href="https://www.researchgate.net/publication/378267627_CyberBench_A_Multi-Task_Benchmark_for_Evaluating_Large_Language_Models_in_Cybersecurity"
+                            target="_blank">ResearchGate</a>]</strong><br>
+                    <b>Z Liu</b>, J Shi, JF Buford, AAAI 2024 Workshop on Artificial Intelligence for Cyber Security,
+                    2024
+                </p>
+                <p>
+                    <strong>
+                        SecQA: A Concise Question-Answering Dataset for Evaluating Large Language Models in Computer
+                        Security
+                        [<a href="https://arxiv.org/abs/2312.15838" target="_blank">arXiv</a>]</strong><br>
+                    <b>Z Liu</b>, arXiv preprint arXiv:2312.15838, 2023
+                </p>
+                <p>
+                    <strong>
+                        Anomaly Detection of Command Shell Sessions based on DistilBERT: Unsupervised and Supervised
+                        Approaches
+                        [<a href="https://arxiv.org/abs/2310.13247" target="_blank">arXiv</a>]</strong><br>
+                    <b>Z Liu</b>, JF Buford, Conference on Applied Machine Learning in Information Security 2023, 2023
+                </p>
+            </div>
         </div>
     </div>
 </div>
