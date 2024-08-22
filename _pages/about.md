@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hi, I am a data scientist at JPMorgan Chase with expertise in machine learning and natural language processing. I hold a PhD in Nuclear Engineering from the Georgia Institute of Technology. My work focuses on applying machine learning techniques to various domains including cybersecurity and plasma physics.
+Hello! I'm a Data Scientist at JPMorgan Chase, specializing in machine learning and natural language processing. With a Ph.D. in Nuclear Engineering from Georgia Tech, I bring an interdisciplinary approach to solving complex problems. My work focuses on applying advanced machine learning techniques across various domains, including cybersecurity and plasma physics.
 
 ## Work Experience
 
