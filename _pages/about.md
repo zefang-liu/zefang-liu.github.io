@@ -20,7 +20,7 @@ Education
 
 Work experience
 ======
-* Applied AI ML Associate Sr, JPMorgan Chase, 2023 - Present
+* Applied AI ML Associate Sr, JPMorgan Chase, Aug 2023 - Present
 * Quantitative Research Associate, JPMorgan Chase, Feb 2022 - Aug 2023
 * Applied AI & Machine Learning Summer Associate, JPMorgan Chase, Jun 2021 - Aug 2021
 
