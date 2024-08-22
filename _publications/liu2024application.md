@@ -1,5 +1,6 @@
 ---
 title: "Application of Neural Ordinary Differential Equations for Tokamak Plasma Dynamics Analysis"
+authors: "<b>Zefang Liu</b>, Weston M. Stacey"
 collection: publications
 category: conferences
 permalink: /publication/liu2024application

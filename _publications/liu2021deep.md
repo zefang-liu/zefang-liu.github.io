@@ -1,5 +1,6 @@
 ---
 title: "Deep Reinforcement Learning based Group Recommender System"
+authors: "<b>Zefang Liu</b>, Shuran Wen, Yinzhu Quan"
 collection: publications
 category: conferences
 permalink: /publication/liu2021deep

@@ -30,13 +30,20 @@
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink" style="text-decoration: none; color: inherit;">{{ title }}</a>
       {% endif %}
     </h3>
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
+    <p class="archive__item-excerpt" itemprop="description">
+      {% if post.authors%} {{ post.authors }}<br/>
+      {% endif %}{% if post.venue%} <i>{{ post.venue }}</i> {% endif %}<br/>
+      {% if post.paperurl %} [<a href="{{ post.paperurl }}">Paper</a>] {% endif %}
+      {% if post.slidesurl %} [<a href="{{ post.slidesurl }}">Slides</a>] {% endif %}
+      {% if post.codeurl %} [<a href="{{ post.codeurl }}">Code</a>] {% endif %}
+      {% if post.dataurl %} [<a href="{{ post.dataurl }}">Data</a>] {% endif %}
+    </p>
     </li>
  </article>
 </div>

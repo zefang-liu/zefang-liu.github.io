@@ -1,5 +1,6 @@
 ---
 title: "Anomaly Detection of Command Shell Sessions based on DistilBERT: Unsupervised and Supervised Approaches"
+authors: "<b>Zefang Liu</b>, John F. Buford"
 collection: publications
 category: conferences
 permalink: /publication/liu2023anomaly

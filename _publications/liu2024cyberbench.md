@@ -1,5 +1,6 @@
 ---
 title: "CyberBench: A Multi-Task Benchmark for Evaluating Large Language Models in Cybersecurity"
+authors: "<b>Zefang Liu</b>, Jialei Shi, John F. Buford"
 collection: publications
 category: conferences
 permalink: /publication/liu2024cyberbench
