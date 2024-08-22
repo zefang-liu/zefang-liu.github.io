@@ -8,7 +8,7 @@ excerpt: 'This paper introduces a Deep Reinforcement learning-based Group Recomm
 date: 2021-06-01
 venue: 'arXiv preprint arXiv:2106.06900'
 paperurl: 'https://arxiv.org/abs/2106.06900'
-slidesurl: /files/drgr_slides.pdf
+slidesurl: /files/liu2021deep_slides.pdf
 codeurl: 'https://github.com/zefang-liu/group-recommender'
 citation: 'Liu, Zefang, Shuran Wen, and Yinzhu Quan. &quot;Deep Reinforcement Learning based Group Recommender System.&quot; <i>arXiv preprint arXiv:2106.06900</i> (2021).'
 ---

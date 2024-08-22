@@ -8,7 +8,7 @@ excerpt: 'This paper leverages DistilBERT for anomaly detection in Unix shell se
 date: 2023-10-01
 venue: 'Conference on Applied Machine Learning in Information Security 2023'
 paperurl: 'https://arxiv.org/abs/2310.13247'
-slidesurl: /files/command_slides.pdf
+slidesurl: /files/liu2023anomaly_slides.pdf
 citation: 'Liu, Zefang, and John Buford. &quot;Anomaly detection of command shell sessions based on distilbert: Unsupervised and supervised approaches.&quot; <i>arXiv preprint arXiv:2310.13247</i> (2023).'
 ---
 
