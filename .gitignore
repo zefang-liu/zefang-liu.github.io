@@ -154,3 +154,7 @@ cython_debug/
 
 # PyCharm
 .idea/
+
+# Project
+_site/
+*.lock
