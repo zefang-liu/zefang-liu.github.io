@@ -18,7 +18,7 @@ Education
 * M.S. in Aerospace Engineering, Georgia Institute of Technology, Aug 2016 - May 2018
 * B.E. in Energy and Power Engineering, Shandong University, Sep 2012 - Jun 2016
 
-Work experience
+Work Experience
 ======
 * Applied AI ML Associate Sr, JPMorgan Chase, Aug 2023 - Present
 * Quantitative Research Associate, JPMorgan Chase, Feb 2022 - Aug 2023
