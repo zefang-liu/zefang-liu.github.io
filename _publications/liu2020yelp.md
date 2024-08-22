@@ -6,7 +6,8 @@ permalink: /publication/liu2020yelp
 excerpt: 'This paper predicts Yelp restaurant ratings using both traditional machine learning models and transformer-based models.'
 date: 2020-01-01
 venue: 'arXiv preprint arXiv:2012.06690'
-paperurl: 'https://arxiv.org/pdf/2012.06690'
+paperurl: 'https://arxiv.org/abs/2012.06690'
+codeurl: 'https://github.com/zefang-liu/yelp-review'
 citation: 'Liu, Zefang. &quot;Yelp Review Rating Prediction: Machine Learning and Deep Learning Models.&quot; <i>arXiv preprint arXiv:2012.06690</i> (2020).'
 ---
 

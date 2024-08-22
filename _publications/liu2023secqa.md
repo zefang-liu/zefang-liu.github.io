@@ -6,7 +6,8 @@ permalink: /publication/liu2023secqa
 excerpt: 'SecQA introduces a specialized dataset for evaluating the performance of large language models in computer security through multiple-choice questions.'
 date: 2023-12-01
 venue: 'arXiv preprint arXiv:2312.15838'
-paperurl: 'https://arxiv.org/pdf/2312.15838'
+paperurl: 'https://arxiv.org/abs/2312.15838'
+codeurl: 'https://huggingface.co/datasets/zefang-liu/secqa'
 citation: 'Liu, Zefang. &quot;SecQA: A Concise Question-Answering Dataset for Evaluating Large Language Models in Computer Security.&quot; <i>arXiv preprint arXiv:2312.15838</i> (2023).'
 ---
 

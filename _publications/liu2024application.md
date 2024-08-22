@@ -6,8 +6,9 @@ permalink: /publication/liu2024application
 excerpt: 'A novel Neural ODE-based model is introduced for simulating tokamak plasma dynamics, offering precise energy transfer analysis crucial for advancing controlled thermonuclear fusion.'
 date: 2024-05-01
 venue: 'ICLR 2024 Workshop on AI4DifferentialEquations in Science'
-paperurl: 'https://arxiv.org/pdf/2403.01635'
+paperurl: 'https://arxiv.org/abs/2403.01635'
 slidesurl: /files/plasma_poster.pdf
+codeurl: 'https://github.com/zefang-liu/NeuralPlasmaODE'
 citation: 'Liu, Zefang, and Weston M. Stacey. &quot;Application of Neural Ordinary Differential Equations for Tokamak Plasma Dynamics Analysis.&quot; <i>arXiv preprint arXiv:2403.01635</i> (2024).'
 ---
 
