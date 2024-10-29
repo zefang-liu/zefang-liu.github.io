@@ -5,7 +5,7 @@ collection: publications
 category: conferences
 permalink: /publication/liu2024application
 excerpt: 'A novel Neural ODE-based model is introduced for simulating tokamak plasma dynamics, offering precise energy transfer analysis crucial for advancing controlled thermonuclear fusion.'
-date: 2024-05-01
+date: 2024-03-01
 venue: 'ICLR 2024 Workshop on AI4DifferentialEquations in Science'
 paperurl: 'https://arxiv.org/abs/2403.01635'
 posterurl: /files/liu2024application_poster.pdf
