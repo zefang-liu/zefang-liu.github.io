@@ -9,6 +9,8 @@ date: 2024-02-01
 venue: 'AAAI 2024 Workshop on Artificial Intelligence for Cyber Security'
 paperurl: /files/liu2024cyberbench_paper.pdf
 slidesurl: /files/liu2024cyberbench_slides.pdf
+codeurl: 'https://github.com/jpmorganchase/CyberBench'
+dataurl: 'https://huggingface.co/datasets/zefang-liu/cyberbench'
 citation: 'Liu, Zefang, Jialei Shi, and John F. Buford. &quot;Cyberbench: A multi-task benchmark for evaluating large language models in cybersecurity.&quot; <i>AAAI 2024 Workshop on Artificial Intelligence for Cyber Security</i> (2024).'
 ---
 
