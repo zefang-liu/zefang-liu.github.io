@@ -6,7 +6,7 @@ category: conferences
 permalink: /publication/liu2024cyberbench
 excerpt: 'CyberBench introduces a benchmark for evaluating large language models in cybersecurity, alongside CyberInstruct, a fine-tuned LLM that performs competitively in this domain.'
 date: 2024-02-01
-venue: 'AAAI 2024 Workshop on Artificial Intelligence for Cyber Security'
+venue: 'AAAI 2024 Workshop on Artificial Intelligence for Cyber Security (AICS)'
 paperurl: /files/liu2024cyberbench_paper.pdf
 slidesurl: /files/liu2024cyberbench_slides.pdf
 codeurl: 'https://github.com/jpmorganchase/CyberBench'

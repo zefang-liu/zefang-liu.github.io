@@ -6,7 +6,7 @@ category: conferences
 permalink: /publication/liu2024application2
 excerpt: 'A neural ODE-based burning plasma dynamics model, NeuralPlasmaODE, simulates energy transfer in ITER plasmas for both inductive and non-inductive scenarios.'
 date: 2024-08-01
-venue: 'arXiv preprint arXiv:2408.14404'
+venue: 'AAAI 2025 Workshop on AI to Accelerate Science and Engineering (AI2ASE)'
 paperurl: 'https://arxiv.org/abs/2408.14404'
 codeurl: 'https://github.com/zefang-liu/NeuralPlasmaODE'
 citation: 'Liu, Zefang, and Weston M. Stacey. &quot;Application of Neural Ordinary Differential Equations for ITER Burning Plasma Dynamics.&quot; <i>arXiv preprint arXiv:2408.14404</i> (2024).'

@@ -6,10 +6,10 @@ category: conferences
 permalink: /publication/quan2024econlogicqa
 excerpt: "We introduce EconLogicQA, a benchmark designed to evaluate large language models' ability to understand and sequence complex economic events, demonstrating its effectiveness through evaluations of various models."
 date: 2024-05-01
-venue: 'EMNLP 2024 Findings'
+venue: '2024 Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings'
 paperurl: 'https://arxiv.org/abs/2405.07938'
 dataurl: 'https://huggingface.co/datasets/yinzhu-quan/econ_logic_qa'
-citation: 'Quan, Yinzhu, and Liu, Zefang. &quot;EconLogicQA: A Question-Answering Benchmark for Evaluating Large Language Models in Economic Sequential Reasoning.&quot; <i>EMNLP 2024 Findings</i> (2024).'
+citation: 'Quan, Yinzhu, and Liu, Zefang. &quot;EconLogicQA: A Question-Answering Benchmark for Evaluating Large Language Models in Economic Sequential Reasoning.&quot; <i>arXiv preprint arXiv:2405.07938</i> (2024).'
 ---
 
 **Abstract**

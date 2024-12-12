@@ -6,7 +6,7 @@ category: conferences
 permalink: /publication/liu2024adamole
 excerpt: 'AdaMoLE introduces a dynamic approach to fine-tuning LLMs by using an adaptive mixture of LoRA experts, outperforming traditional top-k routing methods in various tasks.'
 date: 2024-05-01
-venue: 'COLM 2024'
+venue: '2024 Conference on Language Modeling (COLM)'
 paperurl: 'https://arxiv.org/abs/2405.00361'
 codeurl: 'https://github.com/zefang-liu/AdaMoLE'
 posterurl: 'https://github.com/zefang-liu/AdaMoLE/blob/main/poster.pdf'
