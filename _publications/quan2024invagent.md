@@ -6,7 +6,7 @@ category: conferences
 permalink: /publication/quan2024invagent
 excerpt: "InvAgent leverages large language models for adaptive and explainable multi-agent inventory management in supply chains, significantly improving efficiency and resilience."
 date: 2024-07-01
-venue: 'arXiv preprint arXiv:2407.11384'
+venue: 'AAAI 2025 Workshop on Advancing LLM-Based Multi-Agent Collaboration (WMAC)'
 paperurl: 'https://arxiv.org/abs/2407.11384'
 codeurl: 'https://github.com/zefang-liu/InvAgent'
 citation: 'Quan, Yinzhu, and Liu, Zefang. &quot;InvAgent: A Large Language Model based Multi-Agent System for Inventory Management in Supply Chains.&quot; <i>arXiv preprint arXiv:2407.11384</i> (2024).'

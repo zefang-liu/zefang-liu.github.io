@@ -6,7 +6,7 @@ category: conferences
 permalink: /publication/liu2024multiagent
 excerpt: 'This paper explores LLM-based multi-agent collaboration in incident response, analyzing team structures using the Backdoors & Breaches card game.'
 date: 2024-12-01
-venue: 'arXiv preprint arXiv:2412.00652'
+venue: 'AAAI 2025 Workshop on Multi-Agent AI in the Real World (MARW)'
 paperurl: 'https://arxiv.org/abs/2412.00652'
 codeurl: 'https://github.com/zefang-liu/AutoBnB'
 citation: 'Liu, Zefang. &quot;Multi-Agent Collaboration in Incident Response with Large Language Models.&quot; <i>arXiv preprint arXiv:2412.00652</i> (2024).'
