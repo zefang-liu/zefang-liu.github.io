@@ -31,3 +31,7 @@ Hello! I'm a Data Scientist at JPMorganChase, specializing in machine learning, 
     {% include archive-single-cv.html %}
     {% endfor %}
 </ul>
+
+## Academic Service
+
+* Reviewer: NeurIPS 2024 Workshops (ML4PS, FM4Science), ICLR 2025, AAAI 2025 Workshop (MARW).
