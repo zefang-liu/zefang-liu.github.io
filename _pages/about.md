@@ -23,10 +23,6 @@ Hello! I'm a data scientist at JPMorganChase, specializing in machine learning, 
 * M.S. in Aerospace Engineering, Georgia Institute of Technology, 2016 - 2018
 * B.E. in Energy and Power Engineering, Shandong University, 2012 - 2016
 
-## Academic Service
-
-* Reviewer: NeurIPS 2024 Workshops (ML4PS, FM4Science), ICLR 2025, AAAI 2025 Workshop (MARW).
-
 ## Publications
 
 <ul>
@@ -34,3 +30,7 @@ Hello! I'm a data scientist at JPMorganChase, specializing in machine learning, 
     {% include archive-single-cv.html %}
     {% endfor %}
 </ul>
+
+## Academic Service
+
+* Reviewer: NeurIPS'24 Workshop (ML4PS, FM4Science), AAAI'25 Workshop (MARW), ICLR'25 & Workshop, IJCNN'25.
