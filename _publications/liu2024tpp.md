@@ -6,10 +6,11 @@ category: conferences
 permalink: /publication/liu2024tpp
 excerpt: 'This paper introduces TPP-LLM, a framework that integrates large language models with temporal embeddings to improve event sequence modeling and prediction, demonstrating strong performance across multiple real-world datasets.'
 date: 2024-10-01
-venue: 'arXiv preprint arXiv:2410.02062'
+venue: 'ICLR 2025 Workshop on Foundation Models in the Wild (FM-Wild)'
 paperurl: 'https://arxiv.org/abs/2410.02062'
 codeurl: 'https://github.com/zefang-liu/TPP-LLM'
 dataurl: 'https://huggingface.co/tppllm'
+posterurl: /files/liu2024tpp.pdf
 citation: 'Liu, Zefang and Quan, Yinzhu. &quot;TPP-LLM: Modeling Temporal Point Processes by Efficiently Fine-Tuning Large Language Models.&quot; <i>arXiv preprint arXiv:2410.02062</i> (2024).'
 ---
 
