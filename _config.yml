@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Zefang Liu"
 title_separator          : "-"
 name                     : &name "Zefang Liu"
-description              : &description "Data Scientist at JPMorganChase"
+description              : &description "Applied Researcher at Capital One"
 url                      : "https://zefang-liu.github.io" # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zefang-liu/zefang-liu.github.io"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Zefang Liu"
   pronouns         : # Example: "he/him/his"
-  bio              : "Data Scientist at JPMorganChase"
-  location         : "California, United States"
-  employer         : "JPMorganChase"
+  bio              : "Applied Researcher at Capital One"
+  location         : "San Francisco Bay Area"
+  employer         : "Capital One"
   uri              : # URL
   email            : "liuzefang@gatech.edu"
 
