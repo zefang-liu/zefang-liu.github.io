@@ -57,6 +57,7 @@
     {% endif %}
 
     <p>
+      {% if post.weburl %} [<a href="{{ post.weburl }}">Website</a>] {% endif %}
       {% if post.paperurl %} [<a href="{{ post.paperurl }}">Paper</a>] {% endif %}
       {% if post.slidesurl %} [<a href="{{ post.slidesurl }}">Slides</a>] {% endif %}
       {% if post.posterurl %} [<a href="{{ post.posterurl }}">Poster</a>] {% endif %}

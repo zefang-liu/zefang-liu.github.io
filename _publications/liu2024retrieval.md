@@ -10,7 +10,7 @@ venue: 'NAACL 2025 Workshop on Knowledge-Augmented Methods for NLP (KnowledgeNLP
 paperurl: 'https://arxiv.org/abs/2410.14043'
 codeurl: 'https://github.com/zefang-liu/TPP-Embedding'
 dataurl: 'https://huggingface.co/tppllm'
-posterurl: /files/liu2024retrieval.pdf
+posterurl: /files/liu2024retrieval_poster.pdf
 citation: 'Liu, Zefang and Quan, Yinzhu. &quot;Retrieval of Temporal Event Sequences from Textual Descriptions.&quot; <i>arXiv preprint arXiv:2410.14043</i> (2024).'
 ---
 

@@ -39,6 +39,7 @@
     <p class="archive__item-excerpt" itemprop="description">
       {% if post.authors%} {{ post.authors }}<br/>
       {% endif %}{% if post.venue%} <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} {% endif %}<br/>
+      {% if post.weburl %} [<a href="{{ post.weburl }}">Website</a>] {% endif %}
       {% if post.paperurl %} [<a href="{{ post.paperurl }}">Paper</a>] {% endif %}
       {% if post.slidesurl %} [<a href="{{ post.slidesurl }}">Slides</a>] {% endif %}
       {% if post.posterurl %} [<a href="{{ post.posterurl }}">Poster</a>] {% endif %}
