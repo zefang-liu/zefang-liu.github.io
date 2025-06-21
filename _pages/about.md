@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Hello! I’m an Applied Researcher at Capital One, specializing in machine learning and foundation models. Previously, I worked as a Machine Learning Scientist at JPMorganChase, where I applied machine learning and natural language processing techniques to solve challenges in cybersecurity and technology infrastructure. I hold a PhD in Nuclear Engineering and an MS in Computational Science and Engineering from Georgia Tech, where I applied interdisciplinary approaches to machine learning for plasma physics. My research focuses on developing and applying machine learning models across a range of domains, including cybersecurity, economics, and physics.
+Hello! I’m an applied researcher at Capital One, specializing in foundation models. Previously, I was a machine learning scientist at JPMorganChase, where I applied natural language processing to challenges in cybersecurity and technology infrastructure. I hold a PhD in Nuclear Engineering and an MS in Computational Science and Engineering from Georgia Tech. My research focuses on developing and applying machine learning models in cybersecurity, economics, and physics.
+
+I’m looking to collaborate on research involving large language models, especially in cybersecurity and economics. If you're working on related topics, feel free to <a href="mailto:liuzefang@gatech.edu">email me</a>!
 
 ## Work Experience
 
