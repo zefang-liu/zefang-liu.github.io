@@ -10,6 +10,7 @@ venue: '2025 13th International Symposium on Digital Forensics and Security (ISD
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/11012055'
 slidesurl: /files/liu2025autobnb_slides.pdf
 codeurl: 'https://github.com/zefang-liu/AutoBnB'
+confurl: 'https://ieeexplore.ieee.org/xpl/conhome/11011905/proceeding'
 citation: 'Liu, Zefang. &quot;AutoBnB: Multi-Agent Incident Response with Large Language Models.&quot; <i>2025 13th International Symposium on Digital Forensics and Security (ISDFS)</i>. IEEE, 2025'
 
 ---

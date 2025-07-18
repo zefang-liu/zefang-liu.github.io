@@ -8,6 +8,7 @@ excerpt: 'This paper examines how pre-trained language models enhance cybersecur
 date: 2024-02-01
 venue: '2024 12th International Symposium on Digital Forensics and Security (ISDFS)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10527236'
+confurl: 'https://ieeexplore.ieee.org/xpl/conhome/10526462/proceeding'
 citation: 'Liu, Zefang. &quot;A Review of Advancements and Applications of Pre-trained Language Models in Cybersecurity.&quot; <i>2024 12th International Symposium on Digital Forensics and Security (ISDFS)</i>. IEEE, 2024.'
 ---
 
