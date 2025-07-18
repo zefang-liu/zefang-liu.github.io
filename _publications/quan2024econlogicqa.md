@@ -10,6 +10,7 @@ venue: '2024 Conference on Empirical Methods in Natural Language Processing (EMN
 paperurl: 'https://arxiv.org/abs/2405.07938'
 dataurl: 'https://huggingface.co/datasets/yinzhu-quan/econ_logic_qa'
 posterurl: /files/quan2024econlogicqa_poster.pdf
+confurl: 'https://aclanthology.org/2024.findings-emnlp.125/'
 citation: 'Quan, Yinzhu, and Liu, Zefang. &quot;EconLogicQA: A Question-Answering Benchmark for Evaluating Large Language Models in Economic Sequential Reasoning.&quot; <i>arXiv preprint arXiv:2405.07938</i> (2024).'
 ---
 

@@ -10,6 +10,7 @@ venue: 'AAAI 2025 Workshop on Multi-Agent AI in the Real World (MARW)'
 paperurl: 'https://arxiv.org/abs/2412.00652'
 codeurl: 'https://github.com/zefang-liu/AutoBnB'
 posterurl: /files/liu2024multiagent_poster.pdf
+confurl: 'https://sites.google.com/view/marw-ai-agents/accepted-papers'
 citation: 'Liu, Zefang. &quot;Multi-Agent Collaboration in Incident Response with Large Language Models.&quot; <i>arXiv preprint arXiv:2412.00652</i> (2024).'
 ---
 

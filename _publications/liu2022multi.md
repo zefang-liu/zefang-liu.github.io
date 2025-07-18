@@ -5,9 +5,9 @@ collection: publications
 category: conferences
 permalink: /publication/liu2022multi
 excerpt: 'This paper develops a multi-region, multi-timescale transport model to simulate burning plasma dynamics in tokamaks, addressing energy transport and radiation effects to prevent thermal runaway instability in ITER scenarios.'
-date: 2022-10-01
+date: 2022-10-18
 venue: '64th Annual Meeting of the APS Division of Plasma Physics'
-paperurl: 'https://meetings.aps.org/Meeting/DPP22/Session/GO05.6'
+confurl: 'https://meetings.aps.org/Meeting/DPP22/Session/GO05.6'
 slidesurl: /files/liu2022multi_slides.pdf
 codeurl: 'https://github.com/zefang-liu/NeuralPlasmaODE'
 citation: 'Liu, Zefang, and Weston Stacey. &quot;A Multi-Region Multi-Timescale Burning Plasma Dynamics Model for Tokamaks.&quot; <i>APS Division of Plasma Physics Meeting Abstracts</i>. Vol. 2022. 2022.'

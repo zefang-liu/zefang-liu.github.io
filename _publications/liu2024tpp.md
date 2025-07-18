@@ -11,6 +11,7 @@ paperurl: 'https://arxiv.org/abs/2410.02062'
 codeurl: 'https://github.com/zefang-liu/TPP-LLM'
 dataurl: 'https://huggingface.co/tppllm'
 posterurl: /files/liu2024tpp_poster.pdf
+confurl: 'https://fm-wild-community.github.io/'
 citation: 'Liu, Zefang and Quan, Yinzhu. &quot;TPP-LLM: Modeling Temporal Point Processes by Efficiently Fine-Tuning Large Language Models.&quot; <i>arXiv preprint arXiv:2410.02062</i> (2024).'
 ---
 

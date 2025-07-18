@@ -10,6 +10,7 @@ venue: 'AAAI 2025 Workshop on AI to Accelerate Science and Engineering (AI2ASE)'
 paperurl: 'https://arxiv.org/abs/2408.14404'
 codeurl: 'https://github.com/zefang-liu/NeuralPlasmaODE'
 posterurl: /files/liu2024application2_poster.pdf
+confurl: 'https://ai-2-ase.github.io/papers/'
 citation: 'Liu, Zefang, and Weston M. Stacey. &quot;Application of Neural Ordinary Differential Equations for ITER Burning Plasma Dynamics.&quot; <i>arXiv preprint arXiv:2408.14404</i> (2024).'
 ---
 

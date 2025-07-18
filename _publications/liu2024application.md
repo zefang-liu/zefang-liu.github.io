@@ -10,6 +10,7 @@ venue: 'ICLR 2024 Workshop on AI4DifferentialEquations in Science (AI4DiffEqtnsI
 paperurl: 'https://arxiv.org/abs/2403.01635'
 posterurl: /files/liu2024application_poster.pdf
 codeurl: 'https://github.com/zefang-liu/NeuralPlasmaODE'
+confurl: 'https://ai4diffeqtnsinsci.github.io/papers'
 citation: 'Liu, Zefang, and Weston M. Stacey. &quot;Application of Neural Ordinary Differential Equations for Tokamak Plasma Dynamics Analysis.&quot; <i>arXiv preprint arXiv:2403.01635</i> (2024).'
 ---
 

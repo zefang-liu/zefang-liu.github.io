@@ -11,6 +11,7 @@ paperurl: 'https://arxiv.org/abs/2410.14043'
 codeurl: 'https://github.com/zefang-liu/TPP-Embedding'
 dataurl: 'https://huggingface.co/tppllm'
 posterurl: /files/liu2024retrieval_poster.pdf
+confurl: 'https://aclanthology.org/2025.knowledgenlp-1.3/'
 citation: 'Liu, Zefang and Quan, Yinzhu. &quot;Retrieval of Temporal Event Sequences from Textual Descriptions.&quot; <i>arXiv preprint arXiv:2410.14043</i> (2024).'
 ---
 

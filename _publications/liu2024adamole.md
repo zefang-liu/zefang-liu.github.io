@@ -10,6 +10,7 @@ venue: '2024 Conference on Language Modeling (COLM)'
 paperurl: 'https://arxiv.org/abs/2405.00361'
 codeurl: 'https://github.com/zefang-liu/AdaMoLE'
 posterurl: 'https://github.com/zefang-liu/AdaMoLE/blob/main/poster.pdf'
+confurl: 'https://2024.colmweb.org/AcceptedPapers.html'
 citation: 'Liu, Zefang and Luo, Jiahua. &quot;AdaMoLE: Fine-Tuning Large Language Models with Adaptive Mixture of Low-Rank Adaptation Experts.&quot; <i>COLM 2024</i> (2024).'
 ---
 

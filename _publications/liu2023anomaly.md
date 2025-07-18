@@ -9,6 +9,7 @@ date: 2023-10-01
 venue: '2023 Conference on Applied Machine Learning in Information Security (CAMLIS)'
 paperurl: 'https://arxiv.org/abs/2310.13247'
 slidesurl: /files/liu2023anomaly_slides.pdf
+confurl: 'https://www.camlis.org/2023-conference'
 citation: 'Liu, Zefang, and John Buford. &quot;Anomaly detection of command shell sessions based on distilbert: Unsupervised and supervised approaches.&quot; <i>arXiv preprint arXiv:2310.13247</i> (2023).'
 ---
 

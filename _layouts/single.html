@@ -60,12 +60,13 @@ layout: default
 
         <p style="font-size: smaller">
           {% if page.citation %} Recommended citation: {{ page.citation }}<br/> {% endif %}
-          {% if page.weburl %} [<a href="{{ page.weburl }}">Visit Website</a>] {% endif %}
           {% if page.paperurl %} [<a href="{{ page.paperurl }}">Download Paper</a>] {% endif %}
           {% if page.slidesurl %} [<a href="{{ page.slidesurl }}">Download Slides</a>] {% endif %}
           {% if page.posterurl %} [<a href="{{ page.posterurl }}">Download Poster</a>] {% endif %}
           {% if page.codeurl %} [<a href="{{ page.codeurl }}">Download Code</a>] {% endif %}
           {% if page.dataurl %} [<a href="{{ page.dataurl }}">Download Data</a>] {% endif %}
+          {% if page.weburl %} [<a href="{{ page.weburl }}">Visit Website</a>] {% endif %}
+          {% if page.confurl %} [<a href="{{ page.confurl }}">Visit Conference</a>] {% endif %}
         </p>
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">
