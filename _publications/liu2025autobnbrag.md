@@ -6,9 +6,10 @@ category: conferences
 permalink: /publication/liu2025autobnbrag
 excerpt: 'AutoBnB-RAG adds retrieval-augmented generation to multi-agent incident response, improving coordination and decision-making in cyber incident simulations.'
 date: 2025-08-18
-venue: 'arXiv preprint arXiv:2508.13118'
+venue: 'ICDM 2025 Workshop on the use of Large Language Models for Cybersecurity (LLM4Sec)'
 paperurl: 'https://arxiv.org/abs/2508.13118'
 codeurl: 'https://github.com/zefang-liu/AutoBnB'
+confurl: 'https://llm4sec-workshop.github.io/index'
 citation: 'Liu, Zefang and Anwar, Arman. &quot;AutoBnB-RAG: Enhancing Multi-Agent Incident Response with Retrieval-Augmented Generation.&quot; <i>arXiv preprint arXiv:2508.13118</i> (2025).'
 
 ---
