@@ -6,7 +6,7 @@ category: conferences
 permalink: /publication/liu2025econwebarena
 excerpt: "EconWebArena is a benchmark of 360 human-curated tasks from real websites that evaluates autonomous agents' ability to perform complex, multimodal economic reasoning and web navigation using authoritative sources."
 date: 2025-06-01
-venue: 'arXiv preprint arXiv:2506.08136'
+venue: 'NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning and Planning (LAW)'
 weburl: 'https://econwebarena.github.io'
 paperurl: 'https://arxiv.org/abs/2506.08136'
 dataurl: 'https://huggingface.co/datasets/EconWebArena/EconWebArena'
