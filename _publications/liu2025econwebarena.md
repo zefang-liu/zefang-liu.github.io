@@ -10,6 +10,7 @@ venue: 'NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for 
 weburl: 'https://econwebarena.github.io'
 paperurl: 'https://arxiv.org/abs/2506.08136'
 dataurl: 'https://huggingface.co/datasets/EconWebArena/EconWebArena'
+posterurl: /files/liu2025econwebarena_poster.pdf
 citation: 'Liu, Zefang, and Quan, Yinzhu. &quot;EconWebArena: Benchmarking Autonomous Agents on Economic Tasks in Realistic Web Environments.&quot; <i>arXiv preprint arXiv:2506.08136</i> (2025).'
 ---
 

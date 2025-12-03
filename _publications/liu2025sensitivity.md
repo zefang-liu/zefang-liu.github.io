@@ -6,10 +6,11 @@ category: conferences
 permalink: /publication/liu2025sensitivity
 excerpt: 'NeuralPlasmaODE enables sensitivity analysis of ITER plasmas, revealing the dominant factors influencing energy confinement and the self-regulating nature of temperature-dependent transport.'
 date: 2025-07-13
-venue: 'arXiv preprint arXiv:2507.09432'
+venue: '67th Annual Meeting of the APS Division of Plasma Physics'
 paperurl: 'https://arxiv.org/abs/2507.09432'
 codeurl: 'https://github.com/zefang-liu/NeuralPlasmaODE'
-citation: 'Liu, Zefang, and Weston M. Stacey. &quot;Sensitivity Analysis of Transport and Radiation in NeuralPlasmaODE for ITER Burning Plasmas.&quot; <i>arXiv preprint arXiv:2507.09432</i> (2025).'
+posterurl: /files/liu2025sensitivity_poster.pdf
+citation: 'Liu, Zefang, and Weston M. Stacey. &quot;Sensitivity Analysis of Transport and Radiation in NeuralPlasmaODE for ITER Burning Plasmas.&quot; <i>APS Division of Plasma Physics Meeting Abstracts</i>. Vol. 2025. 2025.'
 ---
 
 **Abstract**
